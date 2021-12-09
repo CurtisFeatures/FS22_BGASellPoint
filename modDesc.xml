@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="62">
+     <author>CURATOFARMS</author>
+    <version>1.0</version>
+
+    <title>
+        <en>BGA Sell Point</en>
+        <de>BGA Verkaufspunkt</de>
+    </title>
+
+    <description>
+        <en>BGA Sell Point for Silage and Grass - this is not a BGA plant</en>
+        <de>BGA-Verkaufsstelle für Silage und Gras - dies ist keine BGA-Anlage</de>
+    </description>
+
+    <iconFilename>store_BGASellPoint.dds</iconFilename>
+
+    <multiplayer supported="true" />
+
+    <storeItems>
+        <storeItem xmlFilename="BGASellPoint.xml"/>
+    </storeItems>
+
+
+</modDesc>
