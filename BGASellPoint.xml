@@ -53,7 +53,7 @@
         </unloadTrigger>
 
         <fillType name="GRASS_WINDROW"    priceScale="1.05" supportsGreatDemand="true" disablePriceDrop="false" />
-        <fillType name="SILAGE"           priceScale="1.1" supportsGreatDemand="true" disablePriceDrop="false" />
+        <fillType name="SILAGE"           priceScale="1.15" supportsGreatDemand="true" disablePriceDrop="false" />
 
     </sellingStation>
 

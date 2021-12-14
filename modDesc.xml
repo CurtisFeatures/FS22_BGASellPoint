@@ -1,19 +1,32 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
-<modDesc descVersion="62">
-     <author>CURATOFARMS</author>
-    <version>1.0</version>
-
+<modDesc descVersion="61">
+     <author>CuratoFarms</author>
+    <version>1.0.0.0</version>
     <title>
         <en>BGA Sell Point</en>
         <de>BGA Verkaufspunkt</de>
+        <fr>Point de vente BGA</fr>
     </title>
 
     <description>
-        <en>BGA Sell Point for Silage and Grass - this is not a BGA plant</en>
-        <de>BGA-Verkaufsstelle für Silage und Gras - dies ist keine BGA-Anlage</de>
+<en><![CDATA[Sell point which accepts Sialge and Grass (Bale or loose).
+Can be placed instead of using a BGA - Perfect for a multiplayer server.
+Pays out instantly and at better prices than other sellpoints.
+]]>
+</en>
+<de><![CDATA[Verkaufsstelle, die Sialge und Gras akzeptiert (Ballen oder lose).
+Kann anstelle eines BGA platziert werden - Perfekt für einen Multiplayer-Server.
+Auszahlung sofort und zu besseren Preisen als bei anderen Verkaufsstellen.
+]]>
+</de>
+<fr><![CDATA[Point de vente qui accepte Sialge et Grass (balle ou en vrac).
+Peut être placé au lieu d'utiliser un BGA - Parfait pour un serveur multijoueur.
+Paye instantanément et à de meilleurs prix que les autres points de vente.
+]]>
+</fr>
     </description>
 
-    <iconFilename>store_BGASellPoint.dds</iconFilename>
+    <iconFilename>modIcon.dds</iconFilename>
 
     <multiplayer supported="true" />
 
